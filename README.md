@@ -14,6 +14,8 @@
 ## Description <a name="description"></a> 
 I made this project so that as a freelance web developer I could generate simple SVG logos for my own projects without having to pay a graphic designer. I made it by building a Node.js command-line application that takes in user input to generate a logo and save it as an SVG. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to an .svg file.
 
+This was an interesting project for me because it was my first time working with Jest and writing tests for my own project. I look forward to more project development and testing in the future!
+
 ## Examples <a name="examples"></a>
 ![Circle logo.svg Example](/examples/circle-example.svg)
 ![Triangle logo.svg Example](/examples/triangle-example.svg)
@@ -22,7 +24,7 @@ I made this project so that as a freelance web developer I could generate simple
 Note: click on the Triangle example. The text actually fits within the triangle. GitHub rendering sometimes throws that off in this README.md.
 
 ## Video Example Walkthrough <a name="example"></a>
-Here is a link to the video example walkthrough hosted on Google Drive: []().
+Here is a link to the video example walkthrough hosted on Google Drive: [https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view](https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view). I showed the interaction with the command line interface (CLI) by entering node index.js, the generated logo.svg in VS Code and in a browser, as well as how to run the tests ("npm run test" in the CLI)
 
 ## Installation <a name="installation-instructions"></a>
 Git clone this repository down locally to your machine.
@@ -31,7 +33,7 @@ Then install Inquirer version 8.2.4 like so:
 npm i inquirer@8.2.4
 ```
 
-Then install Jest as a developer dependency:
+Then install Jest as a developer dependency like so:
 ```bash
 npm i -D jest
 ```
@@ -53,7 +55,13 @@ I had a tutoring session with Mila Hose on 12/10. Mila helped me with creating r
 Be respectful and please reach out if you have suggestions!
 
 ## Tests <a name="tests"></a> 
-npm run test. I tested the render methods and the setColor methods of each shape class.
+
+I tested the render methods and the setColor methods of each shape class.
+
+In the command line interface, run:
+```bash
+npm run test
+```
 
 ## Questions
 Please feel free to reach out to me with questions or suggestions for this app.<br>
