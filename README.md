@@ -24,7 +24,7 @@ This was an interesting project for me because it was my first time working with
 Note: click on the Triangle example. The text actually fits within the triangle. GitHub rendering sometimes throws that off in this README.md.
 
 ## Video Example Walkthrough <a name="example"></a>
-Here is a link to the video example walkthrough hosted on Google Drive: [https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view](https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view). I showed the interaction with the command line interface (CLI) by entering node index.js, the generated logo.svg in VS Code and in a browser, as well as how to run the tests ("npm run test" in the CLI)
+Here is a link to the video example walkthrough hosted on Google Drive: [https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view](https://drive.google.com/file/d/1ngrel8bmqBAOhqQK09H3gbe6ebq_7-VJ/view). I showed the interaction with the command line interface (CLI) by entering "node index.js", the generated logo.svg in VS Code and in a browser, as well as how to run the tests ("npm run test" in the CLI)
 
 ## Installation <a name="installation-instructions"></a>
 Git clone this repository down locally to your machine.
