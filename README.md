@@ -19,6 +19,8 @@ I made this project so that as a freelance web developer I could generate simple
 ![Triangle logo.svg Example](/examples/triangle-example.svg)
 ![Square logo.svg Example](/examples/square-example.svg)
 
+Note: click on the Triangle example. The text actually fits within the triangle. GitHub rendering sometimes throws that off in this README.md.
+
 ## Video Example Walkthrough <a name="example"></a>
 Here is a link to the video example walkthrough hosted on Google Drive: []().
 
@@ -40,11 +42,12 @@ In the command line interface, run:
 node index.js
 ```
 
-
 ## Credits <a name="credits"></a>
-I used the Stu_Mini-Project from Module 10-OOP of the UCSD-VIRT-FSF-PT-09-2023-U-LOLC GitLab as an example.
+I used the Stu_Mini-Project from Module 10-OOP of the [UCSD-VIRT-FSF-PT-09-2023-U-LOLC](https://git.bootcampcontent.com/University-of-California---San-Diego/UCSD-VIRT-FSF-PT-09-2023-U-LOLC) GitLab repository as an example. Thank you, user mvpache!
 
 When I was having trouble using my classes to write a logo.svg file, I consulted ChatGPT and it helped me to implement a switch statement to instantiate the proper shape class (Square, Triangle, or Circle).
+
+I had a tutoring session with Mila Hose on 12/10. Mila helped me with creating render method tests for Triangle, Circle, and Square in my shapes.test.js file. Mila also helped me to fix the formatting within my render methods so that they would pass the test formats within the example test provided in the rubric's README. I was writing opening multiple <svg> segments before our session and Mila helped me to find the source of that issue and correct. Thanks Mila!
 
 ## Contributing <a name="contribution-guidelines"></a>
 Be respectful and please reach out if you have suggestions!
