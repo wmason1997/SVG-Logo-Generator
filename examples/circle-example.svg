@@ -3,7 +3,7 @@
         
     <circle cx="150" cy="100" r="80" fill="#DFFF00" />
       
-    <text x="150" y="125" font-size="50" text-anchor="middle" fill="#6495ED">MVP</text>
+    <text x="150" y="125" font-size="40" text-anchor="middle" fill="#6495ED">MVP</text>
       
 </svg>
                
